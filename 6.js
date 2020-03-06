@@ -1,4 +1,4 @@
-// CPCS 324 Algorithms & Data Structures 2
+//CPCS 324 Algorithms & Data Structures 2
 // Graph data structure starter - First Edge Object
 // 2019, Dr. Muhammad Al-Hashimi
 
